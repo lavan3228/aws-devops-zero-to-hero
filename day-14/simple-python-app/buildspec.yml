@@ -27,5 +27,6 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: ../simple-python-app
-  
+  base-directory: base_dir
+  name: build-artifact-name
+  discard-paths: no
