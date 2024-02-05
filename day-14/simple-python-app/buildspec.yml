@@ -28,5 +28,3 @@ artifacts:
   files:
     - '**/*'
   base-directory: ../simple-python-app
-  name: build-artifact-name
-  discard-paths: no
